@@ -52,6 +52,7 @@ def OR(x1,x2):
 
 # print(OR(1,1))
 
+# 2.4から
 def XOR(x1,x2):
     s1 = NAND(x1,x2)
     s2 = OR(x1,x2)
