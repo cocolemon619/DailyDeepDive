@@ -1,2 +1,8 @@
 # pycache
-/Chapter1/__pycache__/
+*/__pycache__/
+
+# 参考書のサンプルコード
+/DeepLearningFromScratch
+
+# __init__
+__init__.py
